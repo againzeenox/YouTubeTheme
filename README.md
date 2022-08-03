@@ -29,7 +29,7 @@
 
 <img width="200px" src="https://i.imgur.com/YdZm30f.png"></a>
 
-- #### [3] **[Use CSS Code](https://github.com/againzeenox/YouTubeTheme/blob/main/ThemeCodes/style.css "Use CSS Code").**
+- #### [3] **[Use CSS Code](https://github.com/againzeenox/YouTubeTheme/blob/main/ThemeCodes/MainFiles/style.css "Use CSS Code").**
 
 - #### [4] **[Use JS Code](https://github.com/againzeenox/YouTubeTheme/blob/main/ThemeCodes/MainFiles/script.js "Use JS Code").**
 
