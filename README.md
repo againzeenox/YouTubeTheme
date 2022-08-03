@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCk71twvi6p8i6AqYtFng95g&key=AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8"/>
 </a>
     <a href="https://discord.gg/CCNZ7wH5ab">
       <img alt="Join my Discord" title="Join my Discord" src="https://mpng.subpng.com/20190329/baa/kisspng-portable-network-graphics-computer-icons-transpare-braingoodgames-5c9d9c5040dd48.3787607015538330402657.jpg" height=200px width=400px/></a>
