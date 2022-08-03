@@ -7,7 +7,7 @@
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCk71twvi6p8i6AqYtFng95g&key=AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8"/>
 </a>
     <a href="https://www.youtube.com/channel/UCk71twvi6p8i6AqYtFng95g">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCk71twvi6p8i6AqYtFng95g&key=AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8?label=Views&style=for-the-badge&color=red&labelColor=ce4630"/>
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCk71twvi6p8i6AqYtFng95g&key=AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8"/>
 </a>
   <a href="https://www.instagram.com/againzeenox/" alt="Dev Pro Tips Discussion & Support Server">
     <img title="Follow my InstaGram" src="https://www.healthforteens.co.uk/coventry/wp-content/uploads/sites/4/2019/09/gsmarena_001.jpg" height=200px width=400px/></a>
