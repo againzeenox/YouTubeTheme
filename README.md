@@ -3,10 +3,10 @@
 <h3 align="center">YouTube Theme</h3>
 
 <p align="center">
-    <a href="https://www.youtube.com/channel/AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8">
+    <a href="https://www.youtube.com/channel/UCk71twvi6p8i6AqYtFng95g">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCk71twvi6p8i6AqYtFng95g&key=AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8"/>
 </a>
-    <a href="https://www.youtube.com/channel/AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8">
+    <a href="https://www.youtube.com/channel/UCk71twvi6p8i6AqYtFng95g">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCk71twvi6p8i6AqYtFng95g&key=AIzaSyC8Qepf0P193rukG0I_gXnMUAGEDxytYa8"/>
 </a>
   <a href="https://www.instagram.com/againzeenox/" alt="Dev Pro Tips Discussion & Support Server">
