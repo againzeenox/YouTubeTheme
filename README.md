@@ -31,7 +31,7 @@
 
 - #### [3] **[Use CSS Code](https://github.com/againzeenox/YouTubeTheme/blob/main/ThemeCodes/style.css "Use CSS Code").**
 
-- #### [4] **[Use JS Code](https://github.com/againzeenox/YouTubeTheme/blob/main/ThemeCodes/script.js "Use JS Code").**
+- #### [4] **[Use JS Code](https://github.com/againzeenox/YouTubeTheme/blob/main/ThemeCodes/MainFiles/script.js "Use JS Code").**
 
 
 ## Credits:
