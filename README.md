@@ -16,11 +16,6 @@
 <p align="center"> How to have a MODERN YouTube Interface (2022)</p>
 
 ---
-
-## Video Tutorial:
-<table><tr><td><a href="https://youtu.be/yUj94z1VsKc"><img width="300px" src="https://i.imgur.com/1f5P5de.jpeg"></a></td>
-<td><a href="https://youtu.be/yUj94z1VsKc">How to have a MODERN YouTube Interface (2022) </a><br/>August 2, 2022</td></tr></table>
-
 ## Installation:
  
 - #### [1] **[Install the extension Tweaks for YouTube](https://chrome.google.com/webstore/detail/tweaks-for-youtube/ogkoifddpkoabehfemkolflcjhklmkge "Install the extension Tweaks for YouTube").**
